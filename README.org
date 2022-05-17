@@ -141,7 +141,7 @@ I am using python 3.5.2. Hopefully any version of python 3 should work.
   + e.g From this course directory I run, *source dst1_env/bin/activate*
 
 - run *python3 -m pip install -- upgrade pip*. Note that there are 2 dashes in upgrade option.
-- run *wget https://raw.githubusercontent.com/psnegi/data_science_tools1/master/requirements.txt*
+- run *wget https://github.com/wkossekdu/data_science_tools_1/blob/master/requirements.txt
 - run *pip install -r requirements.txt*
 - run *jupyter notebook* or *jupyter lab*. 
 - In the browser you should see your current files.
