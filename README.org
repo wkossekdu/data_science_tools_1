@@ -187,7 +187,7 @@ I will go over basic of python and jupyter notebook.
 ** Week 5 B
    - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/pandas_data_loading_storage_cleanup.ipynb][data ingestion and cleanup]]
      + [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/pandas_data_loading_storage_cleanup_inclass.ipynb][ingestion in class]]
-** 18 feb
+** Week 5 C
    - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/data_cleanup_string_etc.ipynb][cleanup string]]
      + [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/data_cleanup_string_etc_in_class.ipynb][cleanup in class version]]
    - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/data_wrangling_join_combine_reshape.ipynb][wrangling reshape]]
@@ -235,7 +235,6 @@ I will go over basic of python and jupyter notebook.
 |-------------------------------+-------+----------------------------------------+----------|
 | End of Week 9                 |     8 | Complete the [[./hws//hw8_tweet_cleanup_questions.ipynb][this]] hw notebook          |          |
 |-------------------------------+-------+----------------------------------------+----------|
-|                               |       |                                        |          |
 
 
  
