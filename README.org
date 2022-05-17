@@ -162,29 +162,29 @@ I will go over basic of python and jupyter notebook.
   - more to come
 
 * Notebooks
-** Jan 7
+** Week 1 A
 - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/jupyter_notebook_lab_into.ipynb][Jupyter introduction]]
-** Jan 9
+** Week 1 B
 - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/datascience.ipynb][data science introduction]]
-** Jan 14
+** Week 2 A
 - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/git_tool_part1.ipynb][git tool introduction]] 
-** Jan 16
+** Week 2 B
   - [[./notebooks/git_tool_part2.ipynb][git tool part 2]]
-** Jan 23
+** Week 3 A
    - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/Data_science_at_command_prompt.ipynb][Data science at command prompt]]
-** Jan 28
+** Week 3 B
    - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/Data_science_at_command_prompt_awk_sed.ipynb][Data science at command prompt awk sed]]
    - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/Bash_shell_scripts.ipynb][Bash shell scripts]]
-** Jan 30
+** Week 4 A
   - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/numpy_basics.ipynb][ numpy basics]]
 
   - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/web_api.ipynb][ REST API for data retrieval]]   
-** Feb 4
+** Week 4 B
   - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/Web_Scrapping.ipynb][Web Scraping]]
   - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/Web_Scrapping_in_class.ipynb][Web Scraping in class version]]
-** Feb 6
+** Week 5 A
    - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/pandas_introduction.ipynb][pandas]]
-** Feb 11
+** Week 5 B
    - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/pandas_data_loading_storage_cleanup.ipynb][data ingestion and cleanup]]
      + [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/pandas_data_loading_storage_cleanup_inclass.ipynb][ingestion in class]]
 ** 18 feb
@@ -192,26 +192,24 @@ I will go over basic of python and jupyter notebook.
      + [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/data_cleanup_string_etc_in_class.ipynb][cleanup in class version]]
    - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/data_wrangling_join_combine_reshape.ipynb][wrangling reshape]]
      + [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/data_wrangling_join_combine_reshape_inclass.ipynb][wrangling inclass]]
-** 20 feb
+** Week 6 A
    - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/nlp_20_feb_2019.ipynb][nlp]]
-** 25 th Feb
+** Week 6 B
    - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/nlp_25_feb_cleaning.ipynb][more nlp cleaning]]
    - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/nlp_25_feb_cleaning_in_class.ipynb][more nlp cleaning in class]]  
-** 27 th Feb
+** Week 6 C
    - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/pdf_handling_and_pandas_group.ipynb][pdf handling and pandas group]]
    - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/pdf_handling_and_pandas_group_in_class.ipynb][pdf handling and pandas group in class]]
-** 4 th March
+** Week 7 A
      - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/visulaization_in_python.ipynb][visualization in python]]
      - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/visulaization_in_python_in_class.ipynb][visualization in python in class version]]
-** 6 March
+** Week 7 B
      - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/python_visualization_seaborn.ipynb][visualization in python seaborn and geo map]]  
      - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/python_visualization_seaborn_in_class.ipynb][visualization in python seaborn and geo map in class]]  
-** 11 th March
+** Week 8
      - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/time_series_in_python.ipynb][time_series_in_python]]  
      - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/time_series_in_python_in_class.ipynb][time_series_in_python in class]]  
 
-* Homeworks
-*No late hw will be accepted*
 
 |-------------------------------+-------+----------------------------------------+----------|
 |                               | HW no | description and links                  | solution |
